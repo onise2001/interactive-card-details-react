@@ -7,14 +7,14 @@ export default {
         "purple-bg": "#21092f",
       },
       backgroundImage: {
-        "card-front": "url(./images/bg-card-front.png)",
-        "card-back": "url(./images/bg-card-back.png)",
-        "main-mobile-bg": "url(./images/bg-main-mobile.png)",
-        "main-desktop-bg": "url(./images/bg-main-desktop.png)",
+        "card-front": "url(./public/images/bg-card-front.png)",
+        "card-back": "url(./public/images/bg-card-back.png)",
+        "main-mobile-bg": "url(./public/images/bg-main-mobile.png)",
+        "main-desktop-bg": "url(./public/images/bg-main-desktop.png)",
       },
-      color:{
-        "label-color": "#21092f"
-      }
+      color: {
+        "label-color": "#21092f",
+      },
     },
   },
   plugins: [],
